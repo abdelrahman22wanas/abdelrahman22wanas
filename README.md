@@ -39,12 +39,12 @@ This repository serves as my **personal portfolio**, showcasing:
 ---
 ## 🛠️ Languages and Tools
 
-<!-- Core technologies (icon-only style) -->
+<!-- Supported icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,python,java,c,linux,bash,powershell,git,maven,numpy,pandas,mysql&perline=8&size=40" />
+  <img src="https://skillicons.dev/icons?i=github,python,java,c,linux,bash,powershell,git,maven,mysql,numpy&perline=8&size=40" />
 </p>
 
-<!-- Libraries / Frameworks not supported by skillicons -->
+<!-- Unsupported tools shown as badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
