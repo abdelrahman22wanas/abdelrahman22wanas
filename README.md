@@ -35,7 +35,7 @@ This repository serves as my **personal portfolio**, showcasing:
 - 🖥️ **Linux, Bash, and PowerShell** tools
 - 📜 **Certifications & coursework** supporting my academic learning
 
-🔗 **GitHub Portfolio:** https://github.com/abdelrahman22wanas
+🔗 **[GitHub Portfolio](https://github.com/abdelrahman22wanas)**
 ---
 ## 🛠️ Skills & Technologies
 
