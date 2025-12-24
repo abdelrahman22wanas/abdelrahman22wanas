@@ -24,7 +24,6 @@ I'm a 20-year-old computer engineering student majoring in **Cybersecurity**, in
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
