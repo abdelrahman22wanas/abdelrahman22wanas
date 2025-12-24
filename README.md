@@ -94,7 +94,6 @@ I'm a 20-year-old computer engineering student majoring in **Cybersecurity**, in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20Wanas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdelrahman-wanas-4766a6283/)
 [![Facebook](https://img.shields.io/badge/Facebook-Abdelrahman%20Wanas-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdelrahman.wanas.638034)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201023199004)
-![Discord](https://img.shields.io/badge/Discord-Username%3A%20abdelrahman_wanas-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 
 ---
