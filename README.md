@@ -39,9 +39,10 @@ This repository serves as my **personal portfolio**, showcasing:
 ---
 ## 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github,python,java,javafx,c,sql,linux,bash,powershell,git,maven,numpy,pandas,sklearn" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,python,java,javafx,c,sql,linux,bash,powershell,git,maven,numpy,pandas,sklearn&perline=8" />
 </p>
+
 
 ---
 
