@@ -1,8 +1,16 @@
 # Hi there! 👋 I'm Abdelrahman Wanas
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Cybersecurity+%26+Java+Development;System+Programming+%7C+Machine+Learning;Always+Learning+%26+Building" />
+</p>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-wanas-4766a6283/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/abdelrahman.wanas.638034)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201023199004)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdelrahman22wanas&label=Profile%20Views&color=0A66C2&style=flat" />
+</p>
 
 Welcome to my GitHub profile!  
 I'm a 20-year-old computer engineering student majoring in **Cybersecurity**, interested in programming, scripting, and exploring the power of the terminal.
@@ -86,7 +94,16 @@ I'm a 20-year-old computer engineering student majoring in **Cybersecurity**, in
   _Java-based hospital management system._
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman22wanas&show_icons=true&theme=default&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman22wanas&layout=compact&theme=default&hide_border=true" />
+</p>
+---
 ## 🚧 What’s Next?
 
 - 🚀 More **Java projects**
@@ -94,5 +111,8 @@ I'm a 20-year-old computer engineering student majoring in **Cybersecurity**, in
 - 🔐 Cybersecurity-related tools
 
 ---
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdelrahman22wanas&hide_border=true" />
+</p>
+---
 ⭐ *Thanks for visiting my profile!*
