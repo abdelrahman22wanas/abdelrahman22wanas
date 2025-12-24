@@ -36,53 +36,34 @@ I'm a 20-year-old computer engineering student majoring in **Cybersecurity**, in
 ## 📜 Certifications & Courses
 
 ### 🤖 Machine Learning & Data Science
-- **Machine Learning for All**  
-  📄 [PDF](certificates/Machine%20Learning%20for%20All.pdf)
-
-- **Introduction to Probability and Data with R**  
-  📄 [PDF](certificates/Introduction%20to%20Probability%20and%20Data%20with%20R.pdf)
-
-- **Introduction to R – Basic R Syntax**  
-  📄 [PDF](certificates/Introduction%20to%20R_%20Basic%20R%20syntax.pdf)
-
-- **Programming for Everybody (Getting Started with Python)**  
-  📄 [PDF](certificates/Programming%20for%20Everybody%20(Getting%20Started%20with%20Python).pdf)
+- **[Machine Learning for All](certificates/Machine%20Learning%20for%20All.pdf)**
+- **[Introduction to Probability and Data with R](certificates/Introduction%20to%20Probability%20and%20Data%20with%20R.pdf)**
+- **[Introduction to R – Basic R Syntax](certificates/Introduction%20to%20R_%20Basic%20R%20syntax.pdf)**
+- **[Programming for Everybody (Getting Started with Python)](certificates/Programming%20for%20Everybody%20(Getting%20Started%20with%20Python).pdf)**
 
 ---
 
 ### ☕ Java & Object-Oriented Programming
-- **Learn Java with No Prior Programming Experience**  
-  📄 [PDF](certificates/Learn%20Java%20with%20no%20prior%20programming%20experience.pdf)
-
-- **Java Object Basics: Functions, Recursion, and Objects**  
-  📄 [PDF](certificates/Java%20Object%20Basics_%20Functions,%20Recursion,%20and%20Objects.pdf)
-
-- **Object-Oriented Java: Inheritance and Encapsulation**  
-  📄 [PDF](certificates/Object-Oriented%20Java_%20Inheritance%20and%20Encapsulation.pdf)
+- **[Learn Java with No Prior Programming Experience](certificates/Learn%20Java%20with%20no%20prior%20programming%20experience.pdf)**
+- **[Java Object Basics: Functions, Recursion, and Objects](certificates/Java%20Object%20Basics_%20Functions,%20Recursion,%20and%20Objects.pdf)**
+- **[Object-Oriented Java: Inheritance and Encapsulation](certificates/Object-Oriented%20Java_%20Inheritance%20and%20Encapsulation.pdf)**
 
 ---
 
 ### 🧠 Data Structures & Databases
-- **Ordered Data Structures**  
-  📄 [PDF](certificates/Ordered%20Data%20Structures.pdf)
-
-- **Introduction to Relational Databases (RDBMS)**  
-  📄 [PDF](certificates/Introduction%20to%20Relational%20Databases%20(RDBMS).pdf)
+- **[Ordered Data Structures](certificates/Ordered%20Data%20Structures.pdf)**
+- **[Introduction to Relational Databases (RDBMS)](certificates/Introduction%20to%20Relational%20Databases%20(RDBMS).pdf)**
 
 ---
 
 ### 🖥️ Systems, Linux & Hardware
-- **Hands-on Introduction to Linux Commands and Shell Scripting**  
-  📄 [PDF](certificates/Hands-on%20Introduction%20to%20Linux%20Commands%20and%20Shell%20Scripting.pdf)
-
-- **Fundamentals of Digital Design for VLSI Chip Design**  
-  📄 [PDF](certificates/Fundamentals%20of%20Digital%20Design%20for%20VLSI%20Chip%20Design.pdf)
+- **[Hands-on Introduction to Linux Commands and Shell Scripting](certificates/Hands-on%20Introduction%20to%20Linux%20Commands%20and%20Shell%20Scripting.pdf)**
+- **[Fundamentals of Digital Design for VLSI Chip Design](certificates/Fundamentals%20of%20Digital%20Design%20for%20VLSI%20Chip%20Design.pdf)**
 
 ---
 
 ### 🏆 Certificate Holder
-- **Certificate of Completion – Abdelrahman Moustafa Wanas**  
-  📄 [PDF](certificates/Abdelrahman%20Moustafa%20Wanas%20n_s%20Certificate.pdf)
+- **[Certificate of Completion – Abdelrahman Moustafa Wanas](certificates/Abdelrahman%20Moustafa%20Wanas%20n_s%20Certificate.pdf)**
 ### 🏥 Healthcare Project
 
 - **Hospital Patient Management Project**  
