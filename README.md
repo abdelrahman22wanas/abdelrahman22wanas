@@ -39,10 +39,16 @@ This repository serves as my **personal portfolio**, showcasing:
 ---
 ## 🛠️ Languages and Tools
 
+<!-- ICONS: 5 per row -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,python,java,c,linux,bash,powershell,maven,mysql,numpy&perline=6&size=40" />
+  <img src="https://skillicons.dev/icons?i=github,git,python,java,c&perline=5&size=40" />
 </p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,maven,mysql&perline=5&size=40" />
+</p>
+
+<!-- BADGES (Libraries / Frameworks) -->
 <p align="center">
   <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
@@ -50,9 +56,8 @@ This repository serves as my **personal portfolio**, showcasing:
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OS-000000?style=flat&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-Linux-black?style=flat&logo=linux&logoColor=white" />
 </p>
-
 
 ---
 
