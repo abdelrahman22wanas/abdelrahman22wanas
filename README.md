@@ -24,7 +24,19 @@ I'm a **20-year-old Computer Engineering student** majoring in **Cybersecurity**
 - 👨‍💻 Always expanding my skills and project portfolio  
 
 ---
+## 🧾 Portfolio
 
+This repository serves as my **personal portfolio**, showcasing:
+
+- 🧠 **System Programming** projects (Mini Shell, process handling, C)
+- 🤖 **Machine Learning & Data Science** projects using Python, NumPy, Pandas, and scikit-learn
+- ☕ **Java & Object-Oriented Programming** applications
+- 🗄️ **Database-driven systems** using SQL
+- 🖥️ **Linux, Bash, and PowerShell** tools
+- 📜 **Certifications & coursework** supporting my academic learning
+
+🔗 **GitHub Portfolio:** https://github.com/abdelrahman22wanas
+---
 ## 🛠️ Skills & Technologies
 
 ### Programming & Frameworks
