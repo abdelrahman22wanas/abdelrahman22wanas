@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi there! 👋 I'm Abdelrahman Wanas
 
-<!--
-**abdelrahman22wanas/abdelrahman22wanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm a 20-year-old computer engineering student majoring in Cybersecurity, interested in programming, scripting, and exploring the power of the terminal.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔐 Cybersecurity Major | Computer Engineering Student
+- 🌱 Currently learning: Java, AI, and advanced Python
+- 🤖 Passionate about software development, scripting, and system programming
+- 🛠️ Experience with Python, Java, C, Assembly, and PHP
+- 📊 Interested in machine learning and data science projects
+- 💻 I enjoy building and tinkering with terminal-based tools
+- 👨‍💻 Always expanding my skills and project portfolio
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** Python, Java, C, Assembly (basic), PHP
+- **Technologies:** Machine Learning, AI, Terminal/Shell Scripting
+- **Tools:** Git, Linux terminal, VSCode
+
+---
+
+## 📈 Stats & Achievements
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelrahman22wanas&show_icons=true&hide_title=true&count_private=true)
+
+---
+
+## 📚 Featured Projects
+
+- [Basic-forks-and-C-Style-Development](https://github.com/abdelrahman22wanas/Basic-forks-and-C-Style-Development)  
+  _System programming and C-style development explorations._
+- [Customer-Churn-Prediction-Customer-Lifetime-Value-Prediction-Machine-Learning-Project-](https://github.com/abdelrahman22wanas/Customer-Churn-Prediction-Customer-Lifetime-Value-Prediction-Machine-Learning-Project-)  
+  _Machine learning models for customer churn and lifetime value prediction._
+- [Mini-Shell](https://github.com/abdelrahman22wanas/Mini-Shell)  
+  _A basic Unix-like shell implemented for learning and fun._
+
+---
+
+## 🚧 What’s Next?
+
+- More Java projects coming soon!
+- AI and machine learning projects with Python in development—stay tuned!
+
+---
+
+## 🤝 Let's Connect!
+
+- [LinkedIn](https://www.linkedin.com/in/abdelrahman-wanas-4766a6283/)
+
+---
+
+Thank you for visiting my profile!
