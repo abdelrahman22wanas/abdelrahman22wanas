@@ -34,6 +34,8 @@ I'm a 20-year-old computer engineering student majoring in Cybersecurity, intere
   _Machine learning models for customer churn and lifetime value prediction._
 - [Mini-Shell](https://github.com/abdelrahman22wanas/Mini-Shell)  
   _A basic Unix-like shell implemented for learning and fun._
+- [Hospital-Patient-Management-System](https://github.com/abdelrahman22wanas/Hospital-Patient-Management-System)  
+  _A Java-based hospital patient management system for tracking patient records, appointments, and treatments._
 
 ---
 
