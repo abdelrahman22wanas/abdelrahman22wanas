@@ -40,7 +40,7 @@ This repository serves as my **personal portfolio**, showcasing:
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,python,java,c,linux,bash,powershell,maven,mysql,numpy&perline=20&size=40" />
+  <img src="https://skillicons.dev/icons?i=github,git,python,java,c,linux,bash,powershell,maven,mysql,numpy&perline=20&size=32" />
 </p>
 
 <p align="center">
