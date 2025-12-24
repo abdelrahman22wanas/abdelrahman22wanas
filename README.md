@@ -85,13 +85,6 @@ I'm a 20-year-old computer engineering student majoring in **Cybersecurity**, in
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelrahman22wanas&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman22wanas&layout=compact&theme=tokyonight)
-
----
-
 ## 🚧 What’s Next?
 
 - 🚀 More **Java projects**
