@@ -39,16 +39,20 @@ This repository serves as my **personal portfolio**, showcasing:
 ---
 ## 🛠️ Languages and Tools
 
-<!-- Supported icons -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,python,java,c,linux,bash,powershell,git,maven,mysql,numpy&perline=8&size=40" />
+  <img src="https://skillicons.dev/icons?i=github,git,python,java,c,linux,bash,powershell,maven,mysql,numpy&perline=6&size=40" />
 </p>
 
-<!-- Unsupported tools shown as badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/JavaFX-ED8B00?style=flat&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/OS-000000?style=flat&logo=linux&logoColor=white" />
 </p>
+
 
 ---
 
