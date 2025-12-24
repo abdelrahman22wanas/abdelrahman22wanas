@@ -91,7 +91,7 @@ I'm a 20-year-old computer engineering student majoring in **Cybersecurity**, in
 
 ## 🤝 Let's Connect!
 
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/abdelrahman-wanas-4766a6283/
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdelrahman-wanas-4766a6283/)
 
 ---
 
