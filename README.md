@@ -23,11 +23,6 @@ I'm a 20-year-old computer engineering student majoring in Cybersecurity, intere
 - **Technologies:** Machine Learning, AI, Terminal/Shell Scripting
 - **Tools:** Git, Linux terminal, VSCode
 
----
-
-## 📈 Stats & Achievements
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelrahman22wanas&show_icons=true&hide_title=true&count_private=true)
 
 ---
 
