@@ -42,6 +42,7 @@ This repository serves as my **personal portfolio**, showcasing:
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github,python,java,javafx,c,sql,linux,bash,powershell,git,maven,numpy,pandas,sklearn" />
 </p>
+
 ---
 
 ## 📜 Certifications & Courses
