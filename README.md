@@ -1,5 +1,9 @@
 # Hi there! 👋 I'm Abdelrahman Wanas
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-wanas-4766a6283/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/abdelrahman.wanas.638034)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201023199004)
+
 Welcome to my GitHub profile!  
 I'm a 20-year-old computer engineering student majoring in **Cybersecurity**, interested in programming, scripting, and exploring the power of the terminal.
 
@@ -30,13 +34,12 @@ I'm a 20-year-old computer engineering student majoring in **Cybersecurity**, in
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-### Systems & Tools
+### Databases, Systems & Tools
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 
 ---
 
@@ -48,24 +51,23 @@ I'm a 20-year-old computer engineering student majoring in **Cybersecurity**, in
 - **[Introduction to R – Basic R Syntax](certificates/Introduction%20to%20R_%20Basic%20R%20syntax.pdf)**
 - **[Programming for Everybody (Getting Started with Python)](certificates/Programming%20for%20Everybody%20(Getting%20Started%20with%20Python).pdf)**
 
----
-
 ### ☕ Java & Object-Oriented Programming
 - **[Learn Java with No Prior Programming Experience](certificates/Learn%20Java%20with%20no%20prior%20programming%20experience.pdf)**
 - **[Java Object Basics: Functions, Recursion, and Objects](certificates/Java%20Object%20Basics_%20Functions,%20Recursion,%20and%20Objects.pdf)**
 - **[Object-Oriented Java: Inheritance and Encapsulation](certificates/Object-Oriented%20Java_%20Inheritance%20and%20Encapsulation.pdf)**
 
----
-
 ### 🧠 Data Structures & Databases
 - **[Ordered Data Structures](certificates/Ordered%20Data%20Structures.pdf)**
 - **[Introduction to Relational Databases (RDBMS)](certificates/Introduction%20to%20Relational%20Databases%20(RDBMS).pdf)**
 
----
-
 ### 🖥️ Systems, Linux & Hardware
 - **[Hands-on Introduction to Linux Commands and Shell Scripting](certificates/Hands-on%20Introduction%20to%20Linux%20Commands%20and%20Shell%20Scripting.pdf)**
 - **[Fundamentals of Digital Design for VLSI Chip Design](certificates/Fundamentals%20of%20Digital%20Design%20for%20VLSI%20Chip%20Design.pdf)**
+
+### 🧠 Data Structures Learning Project
+- **Data Structures & Algorithms**  
+  _Concepts reinforced through Coursera coursework to support academic data structures projects._  
+  🔗 https://www.coursera.org/account/accomplishments/verify/ST118R4U10Z4
 
 ---
 
@@ -80,11 +82,8 @@ I'm a 20-year-old computer engineering student majoring in **Cybersecurity**, in
 - **[Mini-Shell](https://github.com/abdelrahman22wanas/Mini-Shell)**  
   _A Unix-like shell built from scratch._
 
-
-- **[Hospital Patient Management System](https://github.com/abdelrahman22wanas/Hospital-Patient-Management-System)**
-  _This project was developed as part of my data structures learning journey, with guidance from a Coursera course to strengthen my understanding of ordered data structures and algorithmic concepts._  
-  🔗 https://www.coursera.org/account/accomplishments/verify/ST118R4U10Z4
-  
+- **[Hospital Patient Management System](https://github.com/abdelrahman22wanas/Hospital-Patient-Management-System)**  
+  _Java-based hospital management system._
 
 ---
 
@@ -93,15 +92,6 @@ I'm a 20-year-old computer engineering student majoring in **Cybersecurity**, in
 - 🚀 More **Java projects**
 - 🤖 Advanced **AI & Machine Learning**
 - 🔐 Cybersecurity-related tools
-
----
-
-## 🤝 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20Wanas-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdelrahman-wanas-4766a6283/)
-[![Facebook](https://img.shields.io/badge/Facebook-Abdelrahman%20Wanas-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/abdelrahman.wanas.638034)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201023199004)
-
 
 ---
 
