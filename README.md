@@ -61,9 +61,6 @@ I'm a 20-year-old computer engineering student majoring in **Cybersecurity**, in
 - **[Fundamentals of Digital Design for VLSI Chip Design](certificates/Fundamentals%20of%20Digital%20Design%20for%20VLSI%20Chip%20Design.pdf)**
 
 ---
-
-### 🏆 Certificate Holder
-- **[Certificate of Completion – Abdelrahman Moustafa Wanas](certificates/Abdelrahman%20Moustafa%20Wanas%20n_s%20Certificate.pdf)**
 ### 🏥 Healthcare Project
 
 - **Hospital Patient Management Project**  
