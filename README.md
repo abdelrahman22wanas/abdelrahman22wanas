@@ -70,10 +70,12 @@ I'm a 20-year-old computer engineering student majoring in **Cybersecurity**, in
 - **[Mini-Shell](https://github.com/abdelrahman22wanas/Mini-Shell)**  
   _A Unix-like shell built from scratch._
 
-- **[Hospital Patient Management System](https://github.com/abdelrahman22wanas/Hospital-Patient-Management-System)**  
-  _Java-based hospital management system._
-  _This project was developed as part of my data structures learning journey, with guidance from a Coursera course to strengthen my understanding of ordered data structures and algorithmic concepts._  
+
+- _Java-based hospital management system._
+- **[Hospital Patient Management System](https://github.com/abdelrahman22wanas/Hospital-Patient-Management-System)**
+- _This project was developed as part of my data structures learning journey, with guidance from a Coursera course to strengthen my understanding of ordered data structures and algorithmic concepts._  
   🔗 https://www.coursera.org/account/accomplishments/verify/ST118R4U10Z4
+  
 
 ---
 
