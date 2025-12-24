@@ -68,8 +68,7 @@ I'm a 20-year-old computer engineering student majoring in **Cybersecurity**, in
 
 - **Hospital Patient Management Project**  
   🔗 https://www.coursera.org/account/accomplishments/verify/ST118R4U10Z4  
-  📄 [PDF](certificates/Hospital_Project.pdf)
-
+  
 ---
 
 ## 📚 Featured Projects
