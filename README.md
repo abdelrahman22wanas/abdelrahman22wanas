@@ -58,12 +58,6 @@ I'm a 20-year-old computer engineering student majoring in **Cybersecurity**, in
 - **[Fundamentals of Digital Design for VLSI Chip Design](certificates/Fundamentals%20of%20Digital%20Design%20for%20VLSI%20Chip%20Design.pdf)**
 
 ---
-### 🏥 Healthcare Project
-
-- **Hospital Patient Management Project**  
-  🔗 https://www.coursera.org/account/accomplishments/verify/ST118R4U10Z4  
-  
----
 
 ## 📚 Featured Projects
 
@@ -78,6 +72,8 @@ I'm a 20-year-old computer engineering student majoring in **Cybersecurity**, in
 
 - **[Hospital Patient Management System](https://github.com/abdelrahman22wanas/Hospital-Patient-Management-System)**  
   _Java-based hospital management system._
+  _This project was developed as part of my data structures learning journey, with guidance from a Coursera course to strengthen my understanding of ordered data structures and algorithmic concepts._  
+  🔗 https://www.coursera.org/account/accomplishments/verify/ST118R4U10Z4
 
 ---
 
