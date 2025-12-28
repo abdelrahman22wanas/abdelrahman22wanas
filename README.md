@@ -88,8 +88,7 @@ This repository serves as my **personal portfolio**, showcasing projects in:
 
 ## 📚 Featured Projects
 
-### 🎓 Academic Advising System (JavaFX)
-🔗 https://github.com/abdelrahman22wanas/Advising-System  
+### 🎓 [Academic Advising System (JavaFX)](https://github.com/abdelrahman22wanas/Advising-System)
 
 A full-featured **JavaFX desktop application** simulating a real university academic advising system.
 
@@ -97,38 +96,46 @@ A full-featured **JavaFX desktop application** simulating a real university acad
 - Java 21 & JavaFX GUI  
 - Student, Advisor & Course Management  
 - Smart enrollment with prerequisite validation  
-- GPA calculation & grade management  
-- Degree progress tracking  
+- GPA calculation & degree progress tracking  
 - Dark mode UI using CSS  
 - Clean layered architecture (Model – Service – UI)
 
 ---
 
-### 🐚 Mini-Shell
-🔗 https://github.com/abdelrahman22wanas/Mini-Shell  
+### 🧭 [AI Pathfinding Adventure (PyQt6)](https://github.com/abdelrahman22wanas/AI-Driven-Grid-Based-Game.git)
 
-A Unix-like shell built from scratch using C, focusing on process handling and system calls.
+A **PyQt6-based desktop game** that visualizes and compares classical AI pathfinding algorithms  
+(**A\***, **BFS**, **Greedy Best-First**, **Dijkstra**) in a dynamic grid environment.
+
+**Key Highlights**
+- Real-time algorithm visualization  
+- Autonomous AI navigation  
+- Performance monitoring (FPS, steps)  
+- Modern UI with animations and styling  
 
 ---
 
-### 🤖 Customer Churn & CLV Prediction (ML)
-🔗 https://github.com/abdelrahman22wanas/Customer-Churn-Prediction-Customer-Lifetime-Value-Prediction-Machine-Learning-Project-  
+### 🐚 [Mini-Shell](https://github.com/abdelrahman22wanas/Mini-Shell)
 
-Machine learning models for customer churn and lifetime value prediction.
+A Unix-like shell built from scratch using **C**, focusing on process handling and system calls.
 
 ---
 
-### 🏥 Hospital Patient Management System
-🔗 https://github.com/abdelrahman22wanas/Hospital-Patient-Management-System  
+### 🤖 [Customer Churn & CLV Prediction (ML)](https://github.com/abdelrahman22wanas/Customer-Churn-Prediction-Customer-Lifetime-Value-Prediction-Machine-Learning-Project-)
+
+Machine learning models for **customer churn** and **customer lifetime value prediction**.
+
+---
+
+### 🏥 [Hospital Patient Management System](https://github.com/abdelrahman22wanas/Hospital-Patient-Management-System)
 
 Java-based system for managing hospital patients and operations.
 
 ---
 
-### ⚙️ Basic Forks & C-Style Development
-🔗 https://github.com/abdelrahman22wanas/Basic-forks-and-C-Style-Development  
+### ⚙️ [Basic Forks & C-Style Development](https://github.com/abdelrahman22wanas/Basic-forks-and-C-Style-Development)
 
-System programming explorations using C and Unix process concepts.
+System programming explorations using **C** and Unix process concepts.
 
 ---
 
