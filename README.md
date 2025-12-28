@@ -9,34 +9,43 @@
 </p>
 
 Welcome to my GitHub profile!  
-I'm a **20-year-old Computer Engineering student** majoring in **Cybersecurity**, interested in programming, scripting, and exploring the power of the terminal.
+I'm a **Computer Engineering student** majoring in **Cybersecurity**, passionate about software development, system programming, and building real-world academic systems.
 
 ---
 
 ## 🚀 About Me
 
 - 🔐 Cybersecurity Major | Computer Engineering Student  
-- 🌱 Currently learning: **Java, AI, and Advanced Python**  
-- 🤖 Passionate about software development, scripting, and system programming  
+- 🌱 Currently learning: **Advanced Java, AI, and Machine Learning**  
+- 🤖 Interested in **software engineering, system programming, and desktop applications**  
 - 🛠️ Experience with **Python, Java, C, Assembly, and PHP**  
-- 📊 Interested in **Machine Learning and Data Science**  
-- 💻 Enjoy building terminal-based tools  
-- 👨‍💻 Always expanding my skills and project portfolio  
+- 📊 Exploring **Machine Learning, Data Science, and academic system design**  
+- 💻 Enjoy building **terminal-based tools and JavaFX desktop applications**  
+- 👨‍💻 Always expanding my skills through hands-on projects  
 
 ---
+
 ## 🧾 Portfolio
 
-This repository serves as my **personal portfolio**, showcasing:
+This repository serves as my **personal portfolio**, showcasing projects in:
 
-- 🧠 **System Programming** projects (Mini Shell, process handling, C)
-- 🤖 **Machine Learning & Data Science** projects using Python, NumPy, Pandas, and scikit-learn
-- ☕ **Java & Object-Oriented Programming** applications
+- 🧠 **System Programming** (Mini Shell, process handling, C)
+- ☕ **Java & Object-Oriented Programming**
+  - JavaFX desktop applications  
+  - Layered architecture (Model – Service – UI)
+- 🎓 **Academic Systems Design**
+  - Student enrollment & advising systems  
+  - GPA calculation & degree progress tracking
+- 🤖 **Machine Learning & Data Science**
 - 🗄️ **Database-driven systems** using SQL
 - 🖥️ **Linux, Bash, and PowerShell** tools
-- 📜 **Certifications & coursework** supporting my academic learning
+- 📜 **Certifications & academic coursework**
 
-🔗 **[GitHub Portfolio](https://github.com/abdelrahman22wanas)**
+🔗 **GitHub Portfolio**  
+👉 https://github.com/abdelrahman22wanas
+
 ---
+
 ## 🛠️ Languages and Tools
 
 <p align="center">
@@ -52,58 +61,83 @@ This repository serves as my **personal portfolio**, showcasing:
   <img src="https://img.shields.io/badge/OS-Linux-black?style=flat&logo=linux&logoColor=white" />
 </p>
 
-
 ---
 
 ## 📜 Certifications & Courses
 
 ### 🤖 Machine Learning & Data Science
-- **[Machine Learning for All](certificates/Machine%20Learning%20for%20All.pdf)**
-- **[Introduction to Probability and Data with R](certificates/Introduction%20to%20Probability%20and%20Data%20with%20R.pdf)**
-- **[Introduction to R – Basic R Syntax](certificates/Introduction%20to%20R_%20Basic%20R%20syntax.pdf)**
-- **[Programming for Everybody (Getting Started with Python)](certificates/Programming%20for%20Everybody%20(Getting%20Started%20with%20Python).pdf)**
+- Machine Learning for All  
+- Introduction to Probability and Data with R  
+- Introduction to R – Basic R Syntax  
+- Programming for Everybody (Python)
 
 ### ☕ Java & Object-Oriented Programming
-- **[Learn Java with No Prior Programming Experience](certificates/Learn%20Java%20with%20no%20prior%20programming%20experience.pdf)**
-- **[Java Object Basics: Functions, Recursion, and Objects](certificates/Java%20Object%20Basics_%20Functions,%20Recursion,%20and%20Objects.pdf)**
-- **[Object-Oriented Java: Inheritance and Encapsulation](certificates/Object-Oriented%20Java_%20Inheritance%20and%20Encapsulation.pdf)**
+- Learn Java with No Prior Programming Experience  
+- Java Object Basics: Functions, Recursion, and Objects  
+- Object-Oriented Java: Inheritance and Encapsulation  
 
 ### 🧠 Data Structures & Databases
-- **[Ordered Data Structures](certificates/Ordered%20Data%20Structures.pdf)**
-- **[Introduction to Relational Databases (RDBMS)](certificates/Introduction%20to%20Relational%20Databases%20(RDBMS).pdf)**
+- Ordered Data Structures  
+- Introduction to Relational Databases (RDBMS)
 
 ### 🖥️ Systems, Linux & Hardware
-- **[Hands-on Introduction to Linux Commands and Shell Scripting](certificates/Hands-on%20Introduction%20to%20Linux%20Commands%20and%20Shell%20Scripting.pdf)**
-- **[Fundamentals of Digital Design for VLSI Chip Design](certificates/Fundamentals%20of%20Digital%20Design%20for%20VLSI%20Chip%20Design.pdf)**
-
-### 🧠 Data Structures Learning Project
-- **Data Structures & Algorithms**  
-  _Concepts reinforced through Coursera coursework to support academic data structures projects._  
-  🔗 https://www.coursera.org/account/accomplishments/verify/ST118R4U10Z4
+- Hands-on Introduction to Linux Commands and Shell Scripting  
+- Fundamentals of Digital Design for VLSI Chip Design  
 
 ---
 
 ## 📚 Featured Projects
 
-- **[Basic-forks-and-C-Style-Development](https://github.com/abdelrahman22wanas/Basic-forks-and-C-Style-Development)**  
-  _System programming and C-style development explorations._
+### 🎓 Academic Advising System (JavaFX)
+🔗 https://github.com/abdelrahman22wanas/Advising-System  
 
-- **[Customer Churn & Customer Lifetime Value (ML)](https://github.com/abdelrahman22wanas/Customer-Churn-Prediction-Customer-Lifetime-Value-Prediction-Machine-Learning-Project-)**  
-  _Machine learning models for churn & CLV prediction._
+A full-featured **JavaFX desktop application** simulating a real university academic advising system.
 
-- **[Mini-Shell](https://github.com/abdelrahman22wanas/Mini-Shell)**  
-  _A Unix-like shell built from scratch._
+**Key Features**
+- Java 21 & JavaFX GUI  
+- Student, Advisor & Course Management  
+- Smart enrollment with prerequisite validation  
+- GPA calculation & grade management  
+- Degree progress tracking  
+- Dark mode UI using CSS  
+- Clean layered architecture (Model – Service – UI)
 
-- **[Hospital Patient Management System](https://github.com/abdelrahman22wanas/Hospital-Patient-Management-System)**  
-  _Java-based hospital management system._
+---
+
+### 🐚 Mini-Shell
+🔗 https://github.com/abdelrahman22wanas/Mini-Shell  
+
+A Unix-like shell built from scratch using C, focusing on process handling and system calls.
+
+---
+
+### 🤖 Customer Churn & CLV Prediction (ML)
+🔗 https://github.com/abdelrahman22wanas/Customer-Churn-Prediction-Customer-Lifetime-Value-Prediction-Machine-Learning-Project-  
+
+Machine learning models for customer churn and lifetime value prediction.
+
+---
+
+### 🏥 Hospital Patient Management System
+🔗 https://github.com/abdelrahman22wanas/Hospital-Patient-Management-System  
+
+Java-based system for managing hospital patients and operations.
+
+---
+
+### ⚙️ Basic Forks & C-Style Development
+🔗 https://github.com/abdelrahman22wanas/Basic-forks-and-C-Style-Development  
+
+System programming explorations using C and Unix process concepts.
 
 ---
 
 ## 🚧 What’s Next?
 
-- 🚀 More **Java projects**
+- 🚀 More **JavaFX & backend-focused Java projects**
 - 🤖 Advanced **AI & Machine Learning**
-- 🔐 Cybersecurity-related tools
+- 🔐 Cybersecurity tools & system-level projects
+- 🌐 Spring Boot & REST APIs
 
 ---
 
@@ -111,4 +145,4 @@ This repository serves as my **personal portfolio**, showcasing:
   <img src="https://komarev.com/ghpvc/?username=abdelrahman22wanas&label=Profile%20Views&color=0A66C2&style=flat" />
 </p>
 
-⭐ *Thanks for visiting my profile!*
+⭐ **Thanks for visiting my profile!**
