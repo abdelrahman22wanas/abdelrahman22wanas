@@ -166,9 +166,23 @@ System programming explorations using **C** and Unix process concepts.
 - 🤖 Advanced **AI & Machine Learning**
 - 🔐 Cybersecurity tools & system-level projects
 - 🌐 Spring Boot & REST APIs
-
 ---
 
+## 💖 Support / Donations
+
+If you like my work and want to support me, you can donate through any of the platforms below:
+
+### Buy Me a Coffee
+A small one-time donation to keep me motivated:  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abdelrahman22wanas)
+
+### PayPal
+Send a donation directly via PayPal:  
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-003087?style=flat&logo=paypal&logoColor=white)]([https://www.paypal.me/YOUR_USERNAME](https://paypal.me/abdelrahman22wanas))
+
+Every contribution is highly appreciated! Thank you for your support. 💖
+
+---
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abdelrahman22wanas&label=Profile%20Views&color=0A66C2&style=flat" />
 </p>
