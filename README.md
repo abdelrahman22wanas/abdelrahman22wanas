@@ -59,6 +59,7 @@ This repository serves as my **personal portfolio**, showcasing projects in:
 <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-000000?style=flat&logo=linux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
