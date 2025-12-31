@@ -49,7 +49,7 @@ This repository serves as my **personal portfolio**, showcasing projects in:
 ## 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,python,java,c,linux,bash,powershell,maven,mysql,numpy&perline=20&size=32" />
+  <img src="https://skillicons.dev/icons?i=github,git,python,java,c,linux,bash,powershell,maven,mysql,numpy,docker&perline=20&size=32" />
 </p>
 
 <p align="center">
@@ -60,6 +60,7 @@ This repository serves as my **personal portfolio**, showcasing projects in:
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/OS-Linux-black?style=flat&logo=linux&logoColor=white" />
 </p>
+
 
 ---
 
