@@ -165,6 +165,43 @@ System programming explorations using **C** and Unix process concepts.
 
 ---
 
+## 📘 How to Start GitHub Courses
+
+GitHub offers free, interactive courses to help you learn Git, GitHub, and software development skills. Here's how to get started:
+
+### 🎯 GitHub Skills (Recommended for Beginners)
+
+**GitHub Skills** provides hands-on, interactive courses directly in your GitHub repositories.
+
+#### Getting Started:
+1. **Visit [GitHub Skills](https://skills.github.com/)**
+2. **Choose a course** that matches your skill level:
+   - **Introduction to GitHub** - Perfect for absolute beginners
+   - **Communicate using Markdown** - Learn to format text on GitHub
+   - **GitHub Pages** - Create and host a personal website
+   - **Review Pull Requests** - Learn code review best practices
+   - **Resolve Merge Conflicts** - Handle Git conflicts effectively
+3. **Click "Start Course"** - GitHub will automatically create a repository for you
+4. **Follow the instructions** in the repository's README and Issues
+5. **Complete the activities** - Make commits, pull requests, and get instant feedback
+6. **Earn completion** - Each course provides hands-on experience
+
+### 🌟 Additional Learning Resources
+
+- **[GitHub Docs](https://docs.github.com/)** - Official GitHub documentation
+- **[Git Handbook](https://guides.github.com/introduction/git-handbook/)** - Git basics and workflows
+- **[GitHub Actions](https://docs.github.com/en/actions)** - Automate your development workflows
+- **[GitHub Community](https://github.community/)** - Ask questions and connect with others
+
+### 💡 Pro Tips
+
+- Start with the basics if you're new to Git/GitHub
+- Practice regularly by working on your own projects
+- Contribute to open-source projects to gain real-world experience
+- Join the GitHub community to learn from others
+
+---
+
 ## 🚧 What’s Next?
 
 - 🚀 More **JavaFX & backend-focused Java projects**
