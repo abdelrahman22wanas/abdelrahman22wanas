@@ -183,7 +183,7 @@ A small one-time donation to keep me motivated:
 
 ### PayPal
 Send a donation directly via PayPal:  
-[![PayPal](https://img.shields.io/badge/Donate-PayPal-003087?style=flat&logo=paypal&logoColor=white)]([https://www.paypal.me/YOUR_USERNAME](https://paypal.me/abdelrahman22wanas))
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-003087?style=flat&logo=paypal&logoColor=white)](https://paypal.me/abdelrahman22wanas)
 
 Every contribution is highly appreciated! Thank you for your support. 💖
 
