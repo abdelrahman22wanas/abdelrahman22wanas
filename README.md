@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-wanas-4766a6283/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/abdelrahman.wanas.638034)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/201023199004)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)]([https://www.instagram.com/YOUR_USERNAME](https://www.instagram.com/abdelrahmanwanas22?igsh=MTRmb20zMWR5NmExYw%3D%3D&utm_source=qr))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/abdelrahmanwanas22?igsh=MTRmb20zMWR5NmExYw%3D%3D&utm_source=qr)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Cybersecurity+%26+Java+Development;System+Programming+%7C+Machine+Learning;Always+Learning+%26+Building" />
