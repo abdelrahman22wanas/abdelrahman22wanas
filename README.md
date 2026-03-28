@@ -23,22 +23,7 @@ I am a Cyber Security major (B.Sc. Computer Engineering) at Alamein Internationa
 
 ## GitHub Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelrahman22wanas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman22wanas&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=abdelrahman22wanas&theme=tokyonight&hide_border=true&border_radius=10)
-
-## Pinned Project Cards
-
-[![Security](https://img.shields.io/badge/Domain-Security-0F766E?style=for-the-badge&logo=shield)](https://github.com/abdelrahman22wanas?tab=repositories&q=auth)
-[![Java](https://img.shields.io/badge/Stack-Java-1D4ED8?style=for-the-badge&logo=openjdk)](https://github.com/abdelrahman22wanas?tab=repositories&q=java)
-[![Machine Learning](https://img.shields.io/badge/Track-ML-7C3AED?style=for-the-badge&logo=scikitlearn)](https://github.com/abdelrahman22wanas?tab=repositories&q=machine)
-
-[![Secure Authentication System](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman22wanas&repo=Secure-Authentication-System&theme=tokyonight&hide_border=true)](https://github.com/abdelrahman22wanas/Secure-Authentication-System)
-[![ChatApp](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman22wanas&repo=ChatApp&theme=tokyonight&hide_border=true)](https://github.com/abdelrahman22wanas/ChatApp)
-[![Simple Encryption Tool](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman22wanas&repo=Simple-Encryption-Tool&theme=tokyonight&hide_border=true)](https://github.com/abdelrahman22wanas/Simple-Encryption-Tool)
-[![Customer Churn and LTV](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman22wanas&repo=Customer-Churn-Prediction-Customer-Lifetime-Value-Prediction-Machine-Learning-Project-&theme=tokyonight&hide_border=true)](https://github.com/abdelrahman22wanas/Customer-Churn-Prediction-Customer-Lifetime-Value-Prediction-Machine-Learning-Project-)
 
 ## Skills
 
