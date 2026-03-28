@@ -20,11 +20,6 @@ I am a Cyber Security major (B.Sc. Computer Engineering) at Alamein Internationa
 ![Tech Icons](https://skillicons.dev/icons?i=java,python,cpp,js,php,html,css,bash,linux,git,mysql,r)
 
 ## GitHub Status
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelrahman22wanas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman22wanas&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=abdelrahman22wanas&theme=tokyonight&hide_border=true&border_radius=10)
 
 ## Skills
