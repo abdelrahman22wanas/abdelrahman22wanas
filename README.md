@@ -6,6 +6,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-abdelrahman22wanas-0d1117?style=for-the-badge&logo=github)](https://github.com/abdelrahman22wanas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20Wanas-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdelrahman-wanas-87681b337)
+[![Resume](https://img.shields.io/badge/Resume-View%20CV-D97706?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1ulrgkl0CxY35cHzH4Va0Mw8Bn4jFGWjr/view?usp=drive_link)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/abdelrahman22wanas?tab=repositories)
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-00aa88?style=for-the-badge&logo=proton)
 ![Profile Views](https://komarev.com/ghpvc/?username=abdelrahman22wanas&style=for-the-badge&color=0e75b6)
 
@@ -23,7 +25,22 @@ I am a Cyber Security major (B.Sc. Computer Engineering) at Alamein Internationa
 
 ## GitHub Status
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelrahman22wanas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman22wanas&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=abdelrahman22wanas&theme=tokyonight&hide_border=true&border_radius=10)
+
+## Pinned Project Cards
+
+[![Security](https://img.shields.io/badge/Domain-Security-0F766E?style=for-the-badge&logo=shield)](https://github.com/abdelrahman22wanas?tab=repositories&q=auth)
+[![Java](https://img.shields.io/badge/Stack-Java-1D4ED8?style=for-the-badge&logo=openjdk)](https://github.com/abdelrahman22wanas?tab=repositories&q=java)
+[![Machine Learning](https://img.shields.io/badge/Track-ML-7C3AED?style=for-the-badge&logo=scikitlearn)](https://github.com/abdelrahman22wanas?tab=repositories&q=machine)
+
+[![Secure Authentication System](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman22wanas&repo=Secure-Authentication-System&theme=tokyonight&hide_border=true)](https://github.com/abdelrahman22wanas/Secure-Authentication-System)
+[![ChatApp](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman22wanas&repo=ChatApp&theme=tokyonight&hide_border=true)](https://github.com/abdelrahman22wanas/ChatApp)
+[![Simple Encryption Tool](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman22wanas&repo=Simple-Encryption-Tool&theme=tokyonight&hide_border=true)](https://github.com/abdelrahman22wanas/Simple-Encryption-Tool)
+[![Customer Churn and LTV](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman22wanas&repo=Customer-Churn-Prediction-Customer-Lifetime-Value-Prediction-Machine-Learning-Project-&theme=tokyonight&hide_border=true)](https://github.com/abdelrahman22wanas/Customer-Churn-Prediction-Customer-Lifetime-Value-Prediction-Machine-Learning-Project-)
 
 ## Skills
 
@@ -65,3 +82,15 @@ I am a Cyber Security major (B.Sc. Computer Engineering) at Alamein Internationa
 | ![Python](https://img.shields.io/badge/Python-Getting%20Started-3776AB?style=flat-square&logo=python&logoColor=white) | [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/09211cb360f10e52f5c6fac680035090) |
 | ![Java](https://img.shields.io/badge/Java-No%20Prior%20Experience-E11D48?style=flat-square&logo=openjdk&logoColor=white) | [Learn Java with no prior programming experience](https://coursera.org/share/6df365b26362c213f0e06d16198952c2) |
 
+## Currently Learning
+
+- Advanced penetration testing workflows
+- Secure software architecture
+- Applied network monitoring and incident response
+
+## Connect
+
+- LinkedIn: [abdelrahman-wanas-87681b337](https://www.linkedin.com/in/abdelrahman-wanas-87681b337)
+- GitHub: [abdelrahman22wanas](https://github.com/abdelrahman22wanas)
+- Resume: [View CV](https://drive.google.com/file/d/1ulrgkl0CxY35cHzH4Va0Mw8Bn4jFGWjr/view?usp=drive_link)
+- Portfolio: [Projects Portfolio](https://github.com/abdelrahman22wanas?tab=repositories)
