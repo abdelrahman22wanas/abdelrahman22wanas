@@ -1,51 +1,148 @@
-
 # Abdelrahman Wanas
 
-Computer Science student / Software Engineer (Junior) interested in building reliable software and learning modern development practices.
+## Cybersecurity Engineer in Progress | Computer Engineering Student
 
-## Links
-- GitHub: https://github.com/abdelrahman22wanas
-- Portfolio: https://abdelrahman22wanas.github.io/
-- LinkedIn: http://www.linkedin.com/in/abdelrahman-wanas-87681b337
+[![GitHub](https://img.shields.io/badge/GitHub-abdelrahman22wanas-0d1117?style=for-the-badge&logo=github)](https://github.com/abdelrahman22wanas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20Wanas-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdelrahman-wanas-87681b337)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity-00aa88?style=for-the-badge&logo=proton)
+![Profile Views](https://komarev.com/ghpvc/?username=abdelrahman22wanas&style=for-the-badge&color=0e75b6)
+
+I am a Cyber Security major (B.Sc. Computer Engineering) at Alamein International University, passionate about building secure systems, understanding vulnerabilities, and applying practical defensive and offensive security techniques.
+
+## About Me
+
+- Technical Member, IEEE AIU Student Branch (Cyber Security Track)
+- Focused on ethical hacking, penetration testing, vulnerability assessment, and secure development
+- Interested in network defense, cryptography, and resilient software architecture
+
+## Tech Stack and Tools
+
+![Tech Icons](https://skillicons.dev/icons?i=java,python,cpp,js,php,html,css,bash,linux,git,mysql,r)
+
+## GitHub Status
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelrahman22wanas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman22wanas&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=abdelrahman22wanas&theme=tokyonight&hide_border=true&border_radius=10)
 
 ## Skills
-- **Languages:** C++, C#, Java  
-- **Core Concepts:** OOP, Data Structures, Algorithms  
-- **Databases:** SQL  
-- **Tools:** Git, GitHub  
-- **Security (basic):** Authentication concepts, encryption basics  
-- **AI/ML (basic):** Machine Learning fundamentals
+
+### Cybersecurity
+
+- Ethical Hacking
+- Penetration Testing
+- Vulnerability Assessment
+- Network Scanning
+
+### Network Security
+
+- Network Protocols
+- System Security
+- Digital Security
+- Linux
+
+### Cryptography
+
+- AES Encryption
+- Caesar Cipher
+- XOR Cipher
+- Hashing and Salting
+
+### Programming Languages
+
+- Java
+- Python
+- C / C++
+- PHP
+- JavaScript
+- Shell Scripting
+- SQL
+- R
+- Verilog HDL
+- HTML/CSS
+
+### Data and Machine Learning
+
+- scikit-learn
+- Pandas
+- Matplotlib
+- PyQt6
+
+### Hardware and Systems
+
+- Verilog HDL
+- Digital Logic
+- VLSI Design
+- RDBMS / SQL
+
+### Toolchain
+
+- Linux
+- Bash
+- Git
+- Wireshark
+- nmap
 
 ## Featured Projects
-- **ChatApp** — Chat application project  
-  Repo: https://github.com/abdelrahman22wanas/ChatApp.git
 
-- **E-Learning Platform** — Learning management style platform  
-  Repo: https://github.com/abdelrahman22wanas/E-Learning-Platform.git
+### Secure Authentication System
 
-- **Secure Authentication System** — Authentication/security focused project  
-  Repo: https://github.com/abdelrahman22wanas/Secure-Authentication-System.git
+Secure user authentication system using hashing, salting, and encryption techniques.
 
-- **Simple Encryption Tool** — Encryption-related tool  
-  Repo: https://github.com/abdelrahman22wanas/Simple-Encryption-Tool.git
+- Tech: Java, Cryptography, Secure Coding
+- Repo: [Secure-Authentication-System](https://github.com/abdelrahman22wanas/Secure-Authentication-System)
 
-- **Library Management System**  
-  Repo: https://github.com/abdelrahman22wanas/Library-Management-System.git
+### Chat Application
 
-- **AI-Driven Grid-Based Game**  
-  Repo: https://github.com/abdelrahman22wanas/AI-Driven-Grid-Based-Game.git
+Real-time network chat app using socket programming and client-server architecture.
 
-- **Advising System**  
-  Repo: https://github.com/abdelrahman22wanas/Advising-System.git
+- Tech: Java, Networking, Concurrency
+- Repo: [ChatApp](https://github.com/abdelrahman22wanas/ChatApp)
 
-- **Phone Book**  
-  Repo: https://github.com/abdelrahman22wanas/Phone-Book.git
+### Simple Encryption Tool
 
-- **Hospital Patient Management System**  
-  Repo: https://github.com/abdelrahman22wanas/Hospital-Patient-Management-System.git
+CLI encryption and decryption tool implementing Caesar, XOR, and substitution ciphers.
 
-- **Customer Churn + Customer Lifetime Value Prediction (ML Project)**  
-  Repo: https://github.com/abdelrahman22wanas/Customer-Churn-Prediction-Customer-Lifetime-Value-Prediction-Machine-Learning-Project-.git
+- Tech: Java, Cryptography, CLI
+- Repo: [Simple-Encryption-Tool](https://github.com/abdelrahman22wanas/Simple-Encryption-Tool)
 
-## Contact
-If you’d like to collaborate or have an opportunity, feel free to reach out on LinkedIn.
+### Customer Churn and LTV Prediction
+
+Machine learning project for churn classification and customer lifetime value estimation.
+
+- Tech: Python, scikit-learn, Data Analysis
+- Repo: [Customer-Churn-Prediction-Customer-Lifetime-Value-Prediction-Machine-Learning-Project-](https://github.com/abdelrahman22wanas/Customer-Churn-Prediction-Customer-Lifetime-Value-Prediction-Machine-Learning-Project-)
+
+### E-Learning Platform
+
+Learning management platform for instructors and students with scalable course and user management.
+
+- Tech: Java, OOP, Database, MVC
+- Repo: [E-Learning-Platform](https://github.com/abdelrahman22wanas/E-Learning-Platform)
+
+### Hospital Patient Management System
+
+System for patient records, appointments, doctor assignments, and role-based workflows.
+
+- Tech: Java, RDBMS, Role-Based Access
+- Repo: [Hospital-Patient-Management-System](https://github.com/abdelrahman22wanas/Hospital-Patient-Management-System)
+
+### Academic Advising System
+
+Course planning system based on prerequisites, credit hours, and degree requirements.
+
+- Tech: Java, Scheduling, Automation
+- Repo: [Advising-System](https://github.com/abdelrahman22wanas/Advising-System)
+
+## Currently Learning
+
+- Advanced penetration testing workflows
+- Secure software architecture
+- Applied network monitoring and incident response
+
+## Connect
+
+- LinkedIn: [abdelrahman-wanas-87681b337](https://www.linkedin.com/in/abdelrahman-wanas-87681b337)
+- GitHub: [abdelrahman22wanas](https://github.com/abdelrahman22wanas)
