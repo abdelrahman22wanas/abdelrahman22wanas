@@ -7,7 +7,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-abdelrahman22wanas-0d1117?style=for-the-badge&logo=github)](https://github.com/abdelrahman22wanas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20Wanas-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdelrahman-wanas-87681b337)
 [![Resume](https://img.shields.io/badge/Resume-View%20CV-D97706?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1ulrgkl0CxY35cHzH4Va0Mw8Bn4jFGWjr/view?usp=drive_link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Projects-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/abdelrahman22wanas?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdelrahman22wanas.github.io/)
 ![Focus](https://img.shields.io/badge/Focus-Cybersecurity-00aa88?style=for-the-badge&logo=proton)
 ![Profile Views](https://komarev.com/ghpvc/?username=abdelrahman22wanas&style=for-the-badge&color=0e75b6)
 
@@ -93,4 +93,4 @@ I am a Cyber Security major (B.Sc. Computer Engineering) at Alamein Internationa
 - LinkedIn: [abdelrahman-wanas-87681b337](https://www.linkedin.com/in/abdelrahman-wanas-87681b337)
 - GitHub: [abdelrahman22wanas](https://github.com/abdelrahman22wanas)
 - Resume: [View CV](https://drive.google.com/file/d/1ulrgkl0CxY35cHzH4Va0Mw8Bn4jFGWjr/view?usp=drive_link)
-- Portfolio: [Projects Portfolio](https://github.com/abdelrahman22wanas?tab=repositories)
+- Portfolio: [Live Portfolio](https://abdelrahman22wanas.github.io/)
