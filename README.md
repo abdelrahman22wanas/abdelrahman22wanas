@@ -1,5 +1,7 @@
 # Abdelrahman Wanas
 
+![Typing Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=700&color=00C88C&center=false&vCenter=true&width=900&lines=Cybersecurity+Engineer+in+Progress;Ethical+Hacking+%7C+Penetration+Testing+%7C+Secure+Coding;Computer+Engineering+Student+at+AIU)
+
 ## Cybersecurity Engineer in Progress | Computer Engineering Student
 
 [![GitHub](https://img.shields.io/badge/GitHub-abdelrahman22wanas-0d1117?style=for-the-badge&logo=github)](https://github.com/abdelrahman22wanas)
@@ -20,7 +22,23 @@ I am a Cyber Security major (B.Sc. Computer Engineering) at Alamein Internationa
 ![Tech Icons](https://skillicons.dev/icons?i=java,python,cpp,js,php,html,css,bash,linux,git,mysql,r)
 
 ## GitHub Status
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelrahman22wanas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman22wanas&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=abdelrahman22wanas&theme=tokyonight&hide_border=true&border_radius=10)
+
+## Pinned Project Cards
+
+[![Security](https://img.shields.io/badge/Domain-Security-0F766E?style=for-the-badge&logo=shield)](https://github.com/abdelrahman22wanas?tab=repositories&q=auth)
+[![Java](https://img.shields.io/badge/Stack-Java-1D4ED8?style=for-the-badge&logo=openjdk)](https://github.com/abdelrahman22wanas?tab=repositories&q=java)
+[![Machine Learning](https://img.shields.io/badge/Track-ML-7C3AED?style=for-the-badge&logo=scikitlearn)](https://github.com/abdelrahman22wanas?tab=repositories&q=machine)
+
+[![Secure Authentication System](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman22wanas&repo=Secure-Authentication-System&theme=tokyonight&hide_border=true)](https://github.com/abdelrahman22wanas/Secure-Authentication-System)
+[![ChatApp](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman22wanas&repo=ChatApp&theme=tokyonight&hide_border=true)](https://github.com/abdelrahman22wanas/ChatApp)
+[![Simple Encryption Tool](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman22wanas&repo=Simple-Encryption-Tool&theme=tokyonight&hide_border=true)](https://github.com/abdelrahman22wanas/Simple-Encryption-Tool)
+[![Customer Churn and LTV](https://github-readme-stats.vercel.app/api/pin/?username=abdelrahman22wanas&repo=Customer-Churn-Prediction-Customer-Lifetime-Value-Prediction-Machine-Learning-Project-&theme=tokyonight&hide_border=true)](https://github.com/abdelrahman22wanas/Customer-Churn-Prediction-Customer-Lifetime-Value-Prediction-Machine-Learning-Project-)
 
 ## Skills
 
@@ -82,54 +100,26 @@ I am a Cyber Security major (B.Sc. Computer Engineering) at Alamein Internationa
 
 ## Featured Projects
 
-### Secure Authentication System
+| Project | Stack | Description | Repo |
+| --- | --- | --- | --- |
+| Secure Authentication System | Java, Cryptography | Secure authentication using hashing, salting, and encryption techniques. | [Secure-Authentication-System](https://github.com/abdelrahman22wanas/Secure-Authentication-System) |
+| Chat Application | Java, Networking | Real-time client-server chat app with socket programming. | [ChatApp](https://github.com/abdelrahman22wanas/ChatApp) |
+| Simple Encryption Tool | Java, CLI, Crypto | Caesar, XOR, and substitution cipher encryption and decryption tool. | [Simple-Encryption-Tool](https://github.com/abdelrahman22wanas/Simple-Encryption-Tool) |
+| Customer Churn and LTV Prediction | Python, scikit-learn | Churn classification and customer lifetime value prediction project. | [Customer-Churn-and-LTV](https://github.com/abdelrahman22wanas/Customer-Churn-Prediction-Customer-Lifetime-Value-Prediction-Machine-Learning-Project-) |
+| E-Learning Platform | Java, OOP, Database | Learning management platform for courses, enrollment, and tracking. | [E-Learning-Platform](https://github.com/abdelrahman22wanas/E-Learning-Platform) |
+| Hospital Patient Management System | Java, RDBMS | Patient records, appointments, and role-based hospital workflows. | [Hospital-Patient-Management-System](https://github.com/abdelrahman22wanas/Hospital-Patient-Management-System) |
+| Academic Advising System | Java, Scheduling | Automated course planning based on prerequisites and credits. | [Advising-System](https://github.com/abdelrahman22wanas/Advising-System) |
 
-Secure user authentication system using hashing, salting, and encryption techniques.
+## Certifications
 
-- Tech: Java, Cryptography, Secure Coding
-- Repo: [Secure-Authentication-System](https://github.com/abdelrahman22wanas/Secure-Authentication-System)
-
-### Chat Application
-
-Real-time network chat app using socket programming and client-server architecture.
-
-- Tech: Java, Networking, Concurrency
-- Repo: [ChatApp](https://github.com/abdelrahman22wanas/ChatApp)
-
-### Simple Encryption Tool
-
-CLI encryption and decryption tool implementing Caesar, XOR, and substitution ciphers.
-
-- Tech: Java, Cryptography, CLI
-- Repo: [Simple-Encryption-Tool](https://github.com/abdelrahman22wanas/Simple-Encryption-Tool)
-
-### Customer Churn and LTV Prediction
-
-Machine learning project for churn classification and customer lifetime value estimation.
-
-- Tech: Python, scikit-learn, Data Analysis
-- Repo: [Customer-Churn-Prediction-Customer-Lifetime-Value-Prediction-Machine-Learning-Project-](https://github.com/abdelrahman22wanas/Customer-Churn-Prediction-Customer-Lifetime-Value-Prediction-Machine-Learning-Project-)
-
-### E-Learning Platform
-
-Learning management platform for instructors and students with scalable course and user management.
-
-- Tech: Java, OOP, Database, MVC
-- Repo: [E-Learning-Platform](https://github.com/abdelrahman22wanas/E-Learning-Platform)
-
-### Hospital Patient Management System
-
-System for patient records, appointments, doctor assignments, and role-based workflows.
-
-- Tech: Java, RDBMS, Role-Based Access
-- Repo: [Hospital-Patient-Management-System](https://github.com/abdelrahman22wanas/Hospital-Patient-Management-System)
-
-### Academic Advising System
-
-Course planning system based on prerequisites, credit hours, and degree requirements.
-
-- Tech: Java, Scheduling, Automation
-- Repo: [Advising-System](https://github.com/abdelrahman22wanas/Advising-System)
+| Icon | Certification |
+| --- | --- |
+| ![VLSI](https://img.shields.io/badge/VLSI-Verilog-0EA5E9?style=flat-square&logo=verizon) | [Digital System Design using Verilog HDL](https://drive.google.com/drive/folders/1caPnu0zSTbfTtpn7pKHu6tcbI0pFwpzZ?usp=drive_link) |
+| ![Coursera](https://img.shields.io/badge/Coursera-Data%20and%20R-0056D2?style=flat-square&logo=coursera&logoColor=white) | [Introduction to Probability and Data with R](https://coursera.org/share/6c6900d403a49e782809d82257ef4724) |
+| ![Python](https://img.shields.io/badge/Python-Programming-3776AB?style=flat-square&logo=python&logoColor=white) | [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/09211cb360f10e52f5c6fac680035090) |
+| ![Linux](https://img.shields.io/badge/Linux-Shell-111827?style=flat-square&logo=linux&logoColor=white) | [Hands-on Introduction to Linux Commands and Shell Scripting](https://coursera.org/share/bc274df93dd140068690cca48afd15f1) |
+| ![Java](https://img.shields.io/badge/Java-OOP-E11D48?style=flat-square&logo=openjdk&logoColor=white) | [Object-Oriented Java: Inheritance and Encapsulation](https://coursera.org/share/a0e7bc9cb91af4c137f89fb8ea323e4c) |
+| ![Database](https://img.shields.io/badge/Database-RDBMS-059669?style=flat-square&logo=mysql&logoColor=white) | [Introduction to Relational Databases (RDBMS)](https://coursera.org/share/db3b597c31ca0cc2d5a7b149d5986858) |
 
 ## Currently Learning
 
