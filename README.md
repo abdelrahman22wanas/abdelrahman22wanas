@@ -65,13 +65,3 @@ I am a Cyber Security major (B.Sc. Computer Engineering) at Alamein Internationa
 | ![Python](https://img.shields.io/badge/Python-Getting%20Started-3776AB?style=flat-square&logo=python&logoColor=white) | [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/09211cb360f10e52f5c6fac680035090) |
 | ![Java](https://img.shields.io/badge/Java-No%20Prior%20Experience-E11D48?style=flat-square&logo=openjdk&logoColor=white) | [Learn Java with no prior programming experience](https://coursera.org/share/6df365b26362c213f0e06d16198952c2) |
 
-## Currently Learning
-
-- Advanced penetration testing workflows
-- Secure software architecture
-- Applied network monitoring and incident response
-
-## Connect
-
-- LinkedIn: [abdelrahman-wanas-87681b337](https://www.linkedin.com/in/abdelrahman-wanas-87681b337)
-- GitHub: [abdelrahman22wanas](https://github.com/abdelrahman22wanas)
