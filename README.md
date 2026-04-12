@@ -66,3 +66,54 @@ I am a Cyber Security major (B.Sc. Computer Engineering) at Alamein Internationa
 | ![Python](https://img.shields.io/badge/Python-Getting%20Started-3776AB?style=flat-square&logo=python&logoColor=white) | [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/09211cb360f10e52f5c6fac680035090) |
 | ![Java](https://img.shields.io/badge/Java-No%20Prior%20Experience-E11D48?style=flat-square&logo=openjdk&logoColor=white) | [Learn Java with no prior programming experience](https://coursera.org/share/6df365b26362c213f0e06d16198952c2) |
 
+<section class="github-trophies">
+  <div class="trophies-card">
+    <h2>GitHub Trophies</h2>
+    <p>A quick look at contribution highlights.</p>
+
+    <img
+      class="trophies-image"
+      src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onestar&no-frame=true&margin-w=8&margin-h=8"
+      alt="GitHub trophies for USERNAME"
+    />
+  </div>
+</section>
+
+<style>
+  .github-trophies {
+    display: flex;
+    justify-content: center;
+    padding: 24px 16px;
+  }
+
+  .trophies-card {
+    width: min(100%, 980px);
+    padding: 28px;
+    border-radius: 20px;
+    background: linear-gradient(180deg, #111827 0%, #0f172a 100%);
+    color: #e5e7eb;
+    box-shadow: 0 18px 50px rgba(0, 0, 0, 0.28);
+    border: 1px solid rgba(255, 255, 255, 0.08);
+    text-align: center;
+  }
+
+  .trophies-card h2 {
+    margin: 0 0 8px;
+    font-size: clamp(1.5rem, 2.4vw, 2.2rem);
+    letter-spacing: -0.02em;
+  }
+
+  .trophies-card p {
+    margin: 0 0 18px;
+    color: #9ca3af;
+  }
+
+  .trophies-image {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 14px;
+  }
+</style>
+
