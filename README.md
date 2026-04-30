@@ -108,6 +108,18 @@ I am a B.Sc. Computer Engineering student at Alamein International University wi
       <a href="https://nmap.org/"><img src="https://nmap.org/images/sitelogo.png" width="48" height="48" alt="Nmap"/></a>
       <br>Nmap
     </td>
+    <td align="center" width="96">
+      <a href="https://reactnative.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React Native"/></a>
+      <br>React Native
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/></a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn"/></a>
+      <br>scikit-learn
+    </td>
   </tr>
 </table>
 
