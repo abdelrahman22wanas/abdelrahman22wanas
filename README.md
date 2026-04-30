@@ -216,15 +216,6 @@ Focused on Cybersecurity, Secure Systems, AI, and Software Engineering
 
 ---
 
-## 📫 Contact
-
-<div align="left">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
----
 
 ## 🎵 Currently Listening To
 
