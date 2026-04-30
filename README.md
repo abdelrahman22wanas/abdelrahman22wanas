@@ -56,7 +56,6 @@ I am a B.Sc. Computer Engineering student at Alamein International University wi
   <tr>
     <td align="center" width="96"><a href="https://reactnative.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React Native"/></a><br>React Native</td>
     <td align="center" width="96"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker"/></a><br>Docker</td>
-    <td align="center" width="96"><a href="https://openjfx.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javafx/javafx-original.svg" width="48" height="48" alt="JavaFX"/></a><br>JavaFX</td>
     <td align="center" width="96"><a href="https://maven.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="48" height="48" alt="Maven"/></a><br>Maven</td>
     <td align="center" width="96"><a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell"/></a><br>PowerShell</td>
   </tr>
