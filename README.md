@@ -26,73 +26,25 @@ I am a B.Sc. Computer Engineering student at Alamein International University wi
 ## 🛠️ Languages & Tools
 
 <p align="left">
-
-  <!-- Languages -->
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  </a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  </a>
-  <a href="https://www.r-project.org/" target="_blank">
-    <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank">
-    <img src="https://img.shields.io/badge/Shell_Scripting-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Scripting"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/SQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
-  </a>
-
-  <br/><br/>
-
-  <!-- Tools & Platforms -->
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
-  </a>
-  <a href="https://nmap.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  </a>
-
+  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="50" height="50"/></a>
+  <a href="https://scikit-learn.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="50" height="50"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50"/></a>
+  <a href="https://www.wireshark.org/" target="_blank"><img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" alt="Wireshark" width="50" height="50"/></a>
+  <a href="https://www.verilog.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" alt="Verilog" width="50" height="50"/></a>
 </p>
 
 ---
