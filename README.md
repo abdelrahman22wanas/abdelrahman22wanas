@@ -9,8 +9,7 @@
 <div align="left">
   <a href="www.linkedin.com/in/abdelrahman-wanas-87681b337" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a href="abelrahman22wanas@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
   <a href="https://tryhackme.com/p/abdelrahman22wanas" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="52" height="40" alt="tryhackme logo"  />
   </a>
@@ -18,7 +17,7 @@
 
 ###
 
-<p align="left">I am a B.Sc. Computer Engineering student at Alamein International University with a strong focus on cybersecurity, secure software development, and practical offensive and defensive techniques.</p>
+<h4 align="left">I am a B.Sc. Computer Engineering student at Alamein International University with a strong focus on cybersecurity, secure software development, and practical offensive and defensive techniques.</h4>
 
 ###
 
@@ -26,7 +25,7 @@
 
 ###
 
-<h6 align="left">Technical Member, IEEE AIU Student Branch, Cyber Security Track<br>Interested in ethical hacking, penetration testing, vulnerability assessment, and secure development<br>Focused on network defense, cryptography, and resilient software architecture</h6>
+<h4 align="left">Technical Member, IEEE AIU Student Branch, Cyber Security Track<br>Interested in ethical hacking, penetration testing, vulnerability assessment, and secure development<br>Focused on network defense, cryptography, and resilient software architecture</h4>
 
 ###
 
@@ -64,6 +63,52 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embeddedc logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
 ###
@@ -75,6 +120,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman22wanas&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=abdelrahman22wanas&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+---
+
+
+---  ## 🚀 Core Skills  | Category | Highlights | | --- | --- | | Cybersecurity | Ethical Hacking, Penetration Testing, Vulnerability Assessment, Network Scanning | | Network Security | Network Protocols, System Security, Digital Security, Linux | | Cryptography | AES Encryption, Caesar Cipher, XOR Cipher, Hashing and Salting | | Programming Languages | Java, Python, C/C++, PHP, JavaScript, Shell Scripting, SQL, R, Verilog HDL, HTML/CSS | | Data and Machine Learning | scikit-learn, Pandas, Matplotlib, PyQt6 | | Hardware and Systems | Verilog HDL, Digital Logic, VLSI Design, RDBMS/SQL | | Toolchain | Linux, Bash, Git, Wireshark, nmap |  ---  ## 📁 Featured Projects  | Project | Stack | Summary | Repository | | --- | --- | --- | --- | | Secure Authentication System | Java, Cryptography | Secure authentication using hashing, salting, and encryption techniques. | [Secure-Authentication-System](https://github.com/abdelrahman22wanas/Secure-Authentication-System) | | Chat Application | Java, Networking | Real-time client-server chat app with socket programming. | [ChatApp](https://github.com/abdelrahman22wanas/ChatApp) | | Simple Encryption Tool | Java, CLI, Crypto | Caesar, XOR, and substitution cipher encryption and decryption tool. | [Simple-Encryption-Tool](https://github.com/abdelrahman22wanas/Simple-Encryption-Tool) | | Customer Churn and LTV Prediction | Python, scikit-learn | Churn classification and customer lifetime value prediction project. | [Customer-Churn-and-LTV](https://github.com/abdelrahman22wanas/Customer-Churn-Prediction-Customer-Lifetime-Value-Prediction-Machine-Learning-Project-) | | E-Learning Platform | Java, OOP, Database | Learning management platform for courses, enrollment, and tracking. | [E-Learning-Platform](https://github.com/abdelrahman22wanas/E-Learning-Platform) | | Hospital Patient Management System | Java, RDBMS | Patient records, appointments, and role-based hospital workflows. | [Hospital-Patient-Management-System](https://github.com/abdelrahman22wanas/Hospital-Patient-Management-System) | | Academic Advising System | Java, Scheduling | Automated course planning based on prerequisites and credits. | [Advising-System](https://github.com/abdelrahman22wanas/Advising-System) |  ---  ## 🏅 Certifications  | Category | Certification | | --- | --- | | R | [Introduction to R: Basic R Syntax](https://coursera.org/share/034f80ccbbc1f902b07604f0656c7776) | | Databases | [Introduction to Relational Databases (RDBMS)](https://coursera.org/share/db3b597c31ca0cc2d5a7b149d5986858) | | Data Analysis | [Introduction to Probability and Data with R](https://coursera.org/share/6c6900d403a49e782809d82257ef4724) | | Machine Learning | [Machine Learning for All](https://coursera.org/share/a8aadeb06a5e4c6d5f537c1ee49d203d) | | VLSI | [Fundamentals of Digital Design for VLSI Chip Design](https://coursera.org/share/b1f48bd020a7b25be718f2b9454ac4fa) | | Java | [Object-Oriented Java: Inheritance and Encapsulation](https://coursera.org/share/a0e7bc9cb91af4c137f89fb8ea323e4c) | | Java | [Java Object Basics: Functions, Recursion, and Objects](https://coursera.org/share/56e9c45e83e24e07a109b42072ff1b23) | | Linux | [Hands-on Introduction to Linux Commands and Shell Scripting](https://coursera.org/share/bc274df93dd140068690cca48afd15f1) | | Data Structures | [Ordered Data Structures](https://coursera.org/share/172afef67bda9509fd930274b7f9eea5) | | Python | [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/09211cb360f10e52f5c6fac680035090) | | Java | [Learn Java with no prior programming experience](https://coursera.org/share/6df365b26362c213f0e06d16198952c2) |  ---  ## 🎯 Focus Areas  - Secure application design and code review - Vulnerability assessment and penetration testing fundamentals - Networking, cryptography, and systems security - Practical software development across Java, Python, and web technologies
+
+
+
 
 ###
 
