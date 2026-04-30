@@ -2,7 +2,9 @@
 
 ###
 
-<h2 align="left">Cybersecurity Engineer in Progress | Computer Engineering Student</h2>
+<h2 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00BFFF&background=00000000&vCenter=true&width=900&lines=Cybersecurity+Engineer+in+Progress;Computer+Engineering+Student" alt="Typing SVG" />
+</h2>
 
 ###
 
