@@ -4,11 +4,16 @@
 
 ## Cybersecurity Engineer in Progress | Computer Engineering Student
 
-[![GitHub](https://img.shields.io/badge/GitHub-abdelrahman22wanas-0d1117?style=for-the-badge&logo=github)](https://github.com/abdelrahman22wanas)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelrahman%20Wanas-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdelrahman-wanas-87681b337)
-[![Resume](https://img.shields.io/badge/Resume-View%20CV-D97706?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1ulrgkl0CxY35cHzH4Va0Mw8Bn4jFGWjr/view?usp=drive_link)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live%20Site-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://abdelrahman22wanas.github.io/)
-![Focus](https://img.shields.io/badge/Focus-Cybersecurity-00aa88?style=for-the-badge&logo=proton)
+<p align="left">
+  <a href="https://github.com/abdelrahman22wanas" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/abdelrahman-wanas-87681b337" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/1ulrgkl0CxY35cHzH4Va0Mw8Bn4jFGWjr/view?usp=drive_link" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg" width="55" height="55" alt="Resume"/></a>&nbsp;&nbsp;
+  <a href="https://abdelrahman22wanas.github.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" width="55" height="55" alt="Portfolio"/></a>&nbsp;&nbsp;
+  <a href="mailto:your-email@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="55" height="55" alt="Gmail"/></a>&nbsp;&nbsp;
+  <a href="https://wa.me/your-number" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="55" height="55" alt="WhatsApp"/></a>&nbsp;&nbsp;
+  <a href="https://t.me/your-username" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="55" height="55" alt="Telegram"/></a>
+</p>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=abdelrahman22wanas&style=for-the-badge&color=0e75b6)
 
 I am a B.Sc. Computer Engineering student at Alamein International University with a strong focus on cybersecurity, secure software development, and practical offensive and defensive techniques.
@@ -103,18 +108,6 @@ I am a B.Sc. Computer Engineering student at Alamein International University wi
     </td>
   </tr>
 </table>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdelrahman-wanas-87681b337" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="60" height="60" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:your-email@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="60" height="60" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://wa.me/your-number" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="60" height="60" alt="WhatsApp"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/your-username" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="60" height="60" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/abdelrahman22wanas" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60" height="60" alt="GitHub"/></a>
-</p>
 
 ---
 
