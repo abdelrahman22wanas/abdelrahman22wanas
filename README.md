@@ -13,13 +13,41 @@
 
 I am a B.Sc. Computer Engineering student at Alamein International University with a strong focus on cybersecurity, secure software development, and practical offensive and defensive techniques.
 
-## Profile
+---
+
+## 👤 Profile
 
 - Technical Member, IEEE AIU Student Branch, Cyber Security Track
 - Interested in ethical hacking, penetration testing, vulnerability assessment, and secure development
 - Focused on network defense, cryptography, and resilient software architecture
 
-## Core Skills
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,php,html,css,bash,linux,git,mysql,r" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman22wanas&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" height="160" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=abdelrahman22wanas&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman22wanas&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" height="160" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman22wanas&theme=tokyo-night&hide_border=true&area=true" height="160" />
+</p>
+
+---
+
+## 🚀 Core Skills
 
 | Category | Highlights |
 | --- | --- |
@@ -31,15 +59,9 @@ I am a B.Sc. Computer Engineering student at Alamein International University wi
 | Hardware and Systems | Verilog HDL, Digital Logic, VLSI Design, RDBMS/SQL |
 | Toolchain | Linux, Bash, Git, Wireshark, nmap |
 
-## Technical Stack
+---
 
-![Tech Icons](https://skillicons.dev/icons?i=java,python,cpp,js,php,html,css,bash,linux,git,mysql,r)
-
-## GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=abdelrahman22wanas&theme=tokyonight&hide_border=true&border_radius=10)
-
-## Featured Projects
+## 📁 Featured Projects
 
 | Project | Stack | Summary | Repository |
 | --- | --- | --- | --- |
@@ -51,7 +73,9 @@ I am a B.Sc. Computer Engineering student at Alamein International University wi
 | Hospital Patient Management System | Java, RDBMS | Patient records, appointments, and role-based hospital workflows. | [Hospital-Patient-Management-System](https://github.com/abdelrahman22wanas/Hospital-Patient-Management-System) |
 | Academic Advising System | Java, Scheduling | Automated course planning based on prerequisites and credits. | [Advising-System](https://github.com/abdelrahman22wanas/Advising-System) |
 
-## Certifications
+---
+
+## 🏅 Certifications
 
 | Category | Certification |
 | --- | --- |
@@ -67,7 +91,9 @@ I am a B.Sc. Computer Engineering student at Alamein International University wi
 | Python | [Programming for Everybody (Getting Started with Python)](https://coursera.org/share/09211cb360f10e52f5c6fac680035090) |
 | Java | [Learn Java with no prior programming experience](https://coursera.org/share/6df365b26362c213f0e06d16198952c2) |
 
-## Focus Areas
+---
+
+## 🎯 Focus Areas
 
 - Secure application design and code review
 - Vulnerability assessment and penetration testing fundamentals
