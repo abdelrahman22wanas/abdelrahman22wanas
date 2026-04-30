@@ -9,7 +9,7 @@
     <td align="center"><a href="https://github.com/abdelrahman22wanas" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/></a></td>
     <td align="center"><a href="https://www.linkedin.com/in/abdelrahman-wanas-87681b337" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/></a></td>
     <td align="center"><a href="https://drive.google.com/file/d/1ulrgkl0CxY35cHzH4Va0Mw8Bn4jFGWjr/view?usp=drive_link" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg" width="55" height="55" alt="Resume"/></a></td>
-    <td align="center"><a href="https://abdelrahman22wanas.github.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" width="55" height="55" alt="Portfolio"/></a></td>
+    <td align="center"><a href="https://abdelrahman22wanas.github.io/" target="_blank"><img src="https://img.icons8.com/fluency/96/domain.png" width="55" height="55" alt="Portfolio"/><br><sub><b>Portfolio</b></sub></a></td>
     <td align="center"><a href="mailto:your-email@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="55" height="55" alt="Gmail"/></a></td>
   </tr>
 </table>
