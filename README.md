@@ -9,10 +9,8 @@
     <td align="center"><a href="https://github.com/abdelrahman22wanas" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/></a></td>
     <td align="center"><a href="https://www.linkedin.com/in/abdelrahman-wanas-87681b337" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="55" height="55" alt="LinkedIn"/></a></td>
     <td align="center"><a href="https://drive.google.com/file/d/1ulrgkl0CxY35cHzH4Va0Mw8Bn4jFGWjr/view?usp=drive_link" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/12/Google_Drive_icon_%282020%29.svg" width="55" height="55" alt="Resume"/></a></td>
-    <td align="center"><a href="https://abdelrahman22wanas.github.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Google_Chrome_icon_%28February_2022%29.svg" width="55" height="55" alt="Portfolio"/></a></td>
+    <td align="center"><a href="https://abdelrahman22wanas.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white" height="40" alt="Portfolio"/></a></td>
     <td align="center"><a href="mailto:your-email@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="55" height="55" alt="Gmail"/></a></td>
-    <td align="center"><a href="https://wa.me/your-number" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="55" height="55" alt="WhatsApp"/></a></td>
-    <td align="center"><a href="https://t.me/your-username" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="55" height="55" alt="Telegram"/></a></td>
   </tr>
 </table>
 
@@ -119,6 +117,18 @@ I am a B.Sc. Computer Engineering student at Alamein International University wi
     <td align="center" width="96">
       <a href="https://scikit-learn.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="scikit-learn"/></a>
       <br>scikit-learn
+    </td>
+    <td align="center" width="96">
+      <a href="https://openjfx.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javafx/javafx-original.svg" width="48" height="48" alt="JavaFX"/></a>
+      <br>JavaFX
+    </td>
+    <td align="center" width="96">
+      <a href="https://maven.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="48" height="48" alt="Maven"/></a>
+      <br>Maven
+    </td>
+    <td align="center" width="96">
+      <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell"/></a>
+      <br>PowerShell
     </td>
   </tr>
 </table>
