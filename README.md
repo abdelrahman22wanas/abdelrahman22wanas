@@ -56,10 +56,10 @@ Focused on Cybersecurity, Secure Systems, AI, and Software Engineering
 - Developing real-world skills in vulnerability analysis and security operations
 
 ---
-## 🏴‍☠️ TryHackMe Progress
+## 🏴‍☠️ TryHackMe
 
 <div align="center">
-  <a href="https://tryhackme.com/p/abdelrahman22wanas" target="_blank">
+  <a href="https://tryhackme.com/p/abdelrahman22wanas">
     <img src="https://tryhackme-badges.s3.amazonaws.com/abdelrahman22wanas.png" alt="TryHackMe Badge" />
   </a>
 </div>
