@@ -57,7 +57,6 @@ Focused on Cybersecurity, Secure Systems, AI, and Software Engineering
 
 ---
 
-## 🛠️ Languages & Tools
 
 <h2 align="left">🛠️ Languages & Tools</h2>
 
