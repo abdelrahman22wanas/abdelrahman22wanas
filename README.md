@@ -217,15 +217,7 @@ Focused on Cybersecurity, Secure Systems, AI, and Software Engineering
 ---
 
 
-## 🎵 Currently Listening To
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31eyq6nuexkcbfs5dwa2ku7xrxs4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31eyq6nuexkcbfs5dwa2ku7xrxs4&count=5&unique=true" alt="Spotify recently played" />
-  </a>
-</div>
-
----
 
 ## 👾 Contribution Graph
 
