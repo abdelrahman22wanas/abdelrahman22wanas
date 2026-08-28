@@ -5,7 +5,6 @@
 **Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
 
 ## Header
-Hi, I'm **abdelrahman22wanas**. This README is tuned for **student** with a GitHub visual system.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=abdelrahman22wanas&theme=github-dark&mode=light" />
@@ -13,7 +12,6 @@ Hi, I'm **abdelrahman22wanas**. This README is tuned for **student** with a GitH
   </picture>
 </p>
 ## About Me
-Shapes the short profile story and positioning.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=abdelrahman22wanas&theme=github-dark&mode=light" />
@@ -21,7 +19,6 @@ Shapes the short profile story and positioning.
   </picture>
 </p>
 ## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=abdelrahman22wanas&theme=github-dark&mode=light" />
@@ -29,7 +26,6 @@ Selected stack and skill badges will be generated from the GitHub profile and RE
   </picture>
 </p>
 ## GitHub Stats
-GitSkins stat widgets will use the **GitHub** theme.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=abdelrahman22wanas&theme=github-dark&mode=light" />
