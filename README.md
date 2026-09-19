@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=header"/>
-
-<img src="https://avatars.githubusercontent.com/abdelrahman22wanas?v=4" width="110" style="border-radius:50%"/>
-
 <br/><br/>
 
 ```
