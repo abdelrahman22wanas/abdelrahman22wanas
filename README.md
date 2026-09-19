@@ -1,9 +1,5 @@
 # abdelrahman22wanas
 
-> Learning velocity and project potential.
-
-**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
-
 ## Header
 <p align="center">
   <picture>
