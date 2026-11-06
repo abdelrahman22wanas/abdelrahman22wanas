@@ -1,85 +1,126 @@
-<h1 align="center">🕷️ WANAS_TRACKER</h1>
 
-<p align="center">
-  <strong>ABDELRAHMAN WANAS · CYBERSECURITY ENGINEER</strong><br>
-  <sub>PENETRATION TESTING · SECURITY RESEARCH · SECURE DEVELOPMENT</sub>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ACTIVELY_SEEKING_OPPORTUNITIES-39FF14?style=for-the-badge&labelColor=0d1117" alt="Status: Actively Seeking Opportunities" />
-  <img src="https://img.shields.io/badge/LOCATION-CAIRO%2C_EGYPT-00B4D8?style=for-the-badge&labelColor=0d1117" alt="Location: Cairo, Egypt" />
-  <img src="https://img.shields.io/badge/FOCUS-OFFSEC%20%7C%20PENTEST%20%7C%20CRYPTO-FF1744?style=for-the-badge&labelColor=0d1117" alt="Focus: Offensive Security, Pentesting, Cryptography" />
-</p>
-
-<p align="center">
-  <a href="https://abdelrahman22wanasgithubio-git-main-abdelrahman22wanas-projects.vercel.app/"><img src="https://img.shields.io/badge/LAUNCH-PORTFOLIO-39FF14?style=for-the-badge&labelColor=0d1117" alt="Launch portfolio" /></a>
-  <a href="https://drive.google.com/file/d/16yKNTsFmdU9MbAYEQvVA6mDcs6pA85Ht/view?usp=sharing"><img src="https://img.shields.io/badge/VIEW-CV-00B4D8?style=for-the-badge&labelColor=0d1117" alt="View CV" /></a>
-  <img src="https://komarev.com/ghpvc/?username=abdelrahman22wanas&color=39ff14&style=for-the-badge&label=SIGHTINGS&labelColor=0d1117" alt="Profile sightings" />
-</p>
-
-```text
+<br/><br/>
+```
  █████╗ ██╗    ██╗
 ██╔══██╗██║    ██║
 ███████║██║ █╗ ██║
 ██╔══██║██║███╗██║
 ██║  ██║╚███╔███╔╝
 ╚═╝  ╚═╝ ╚══╝╚══╝
-
-INITIALIZING PROFILE
-TARGET ACQUIRED: ABDELRAHMAN WANAS
-ROLE: CYBERSECURITY ENGINEER
-STATUS: ONLINE
 ```
 
----
+### `Abdelrahman Wanas.`
 
-## 🕸️ TRACKER LOG
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity_Engineer-111111?style=for-the-badge&logo=hackthebox&logoColor=39ff14"/>
+  <img src="https://img.shields.io/badge/Penetration_Tester-111111?style=for-the-badge&logo=kalilinux&logoColor=39ff14"/>
+  <img src="https://img.shields.io/badge/Security_Researcher-111111?style=for-the-badge&logo=linux&logoColor=39ff14"/>
+</p>
 
-```text
-IDENTITY ........ Abdelrahman Wanas
-CLASS ........... Cybersecurity Engineer · Penetration Tester · Security Researcher
-SPECIALTY ....... Ethical Hacking · Vulnerability Assessment · Cryptography · SIEM
-EDUCATION ....... B.Sc. Computer Engineering (Cyber Security Major)
-                  Alamein International University, 2023–Present
-AFFILIATION ..... Technical Member — Cyber Security Track, IEEE AIU Student Branch
-```
+<p>
+  <img src="https://img.shields.io/badge/📍_Cairo,_Egypt-111111?style=flat-square&logoColor=39ff14"/>
+  <img src="https://img.shields.io/badge/🎓_Alamein_International_University-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/⚡_Status-Actively_Seeking_Opportunities-39ff14?style=flat-square&labelColor=111111"/>
+</p>
 
-I sit at the intersection of offense and defense — understanding how systems break in order to build them better. I approach every system first as an attacker, mapping its attack surface before thinking about how to harden it. Beyond security, I build in **Java**, **Python**, and full-stack web — security-first, every layer of the stack.
+<br/>
 
----
+[![Portfolio](https://img.shields.io/badge/◈_Portfolio-000000?style=for-the-badge&logoColor=39ff14)]([https://smart-booking-system-nine.vercel.app](https://abdelrahman22wanasgithubio-git-main-abdelrahman22wanas-projects.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/◈_LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39ff14)](https://www.linkedin.com/in/abdelrahman-wanas-87681b337)
+[![Email](https://img.shields.io/badge/◈_Email-000000?style=for-the-badge&logo=gmail&logoColor=39ff14)](mailto:abdelrahman22wanas@gmail.com)
+[![CV](https://img.shields.io/badge/◈_Resume/CV-000000?style=for-the-badge&logo=googledrive&logoColor=39ff14)](https://drive.google.com/file/d/16yKNTsFmdU9MbAYEQvVA6mDcs6pA85Ht/view?usp=sharing)
 
-## 🕸️ SIGHTINGS — CONFIRMED APPEARANCES
+<img src="https://komarev.com/ghpvc/?username=abdelrahman22wanas&style=flat-square&color=39ff14&label=PROFILE+VIEWS&labelColor=111111"/>
 
-<table>
-  <thead>
-    <tr>
-      <th>WHEN</th>
-      <th>SIGHTING</th>
-      <th>DETAILS</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Jul 2026</td>
-      <td><b>Connect Professional Services</b><br><sub>Splunk Enterprise Security Intern</sub></td>
-      <td>SIEM configuration, SPL log analysis, event correlation rules, security dashboards, anomaly detection, and incident response.</td>
-    </tr>
-    <tr>
-      <td>Aug 2025</td>
-      <td><b>IEEE AIU Student Branch</b><br><sub>Technical Member — Cyber Security Track</sub></td>
-      <td>Network security, ethical hacking, vulnerability assessment, workshops, threat research, and CTF challenges.</td>
-    </tr>
-    <tr>
-      <td>Aug 2023</td>
-      <td><b>Alamein International University</b><br><sub>B.Sc. Computer Engineering — Cyber Security Major</sub></td>
-      <td>Undergraduate studies in computer engineering with a cybersecurity specialization, Alamein, Egypt.</td>
-    </tr>
-  </tbody>
-</table>
+</div>
 
 ---
 
-## 🗂️ KNOWN TARGETS — PROJECTS
+<div align="center"><sub><code>01 / ABOUT</code></sub></div>
+
+<br/>
+
+> I sit at the intersection of offense and defense — understanding how systems break in order to build them better.
+> I approach every system first as an attacker, mapping its attack surface before thinking about how to harden it.
+> My work spans ethical hacking, penetration testing, vulnerability assessment, and cryptography applied to real systems.
+> Beyond security, I build in **Java**, **Python**, and full-stack web — always security-first, every layer of the stack.
+> Technical member of the **IEEE AIU Student Branch** · Cyber Security Track.
+
+---
+
+<div align="center"><sub><code>02 / STACK</code></sub></div>
+
+<br/>
+
+<div align="center">
+
+**[ SECURITY ]**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-111111?style=flat-square&logo=kalilinux&logoColor=39ff14)
+![Metasploit](https://img.shields.io/badge/Metasploit-111111?style=flat-square&logoColor=39ff14)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-111111?style=flat-square&logo=portswigger&logoColor=39ff14)
+![Wireshark](https://img.shields.io/badge/Wireshark-111111?style=flat-square&logo=wireshark&logoColor=39ff14)
+![Nmap](https://img.shields.io/badge/Nmap-111111?style=flat-square&logoColor=39ff14)
+![Splunk](https://img.shields.io/badge/Splunk-111111?style=flat-square&logo=splunk&logoColor=39ff14)
+![OWASP](https://img.shields.io/badge/OWASP-111111?style=flat-square&logo=owasp&logoColor=39ff14)
+
+**[ LANGUAGES ]**
+
+![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=39ff14)
+![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=39ff14)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=39ff14)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=39ff14)
+![C](https://img.shields.io/badge/C/C++-111111?style=flat-square&logo=c&logoColor=39ff14)
+![PHP](https://img.shields.io/badge/PHP-111111?style=flat-square&logo=php&logoColor=39ff14)
+![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square&logo=mysql&logoColor=39ff14)
+![Verilog](https://img.shields.io/badge/Verilog_HDL-111111?style=flat-square&logoColor=39ff14)
+
+**[ WEB & FRAMEWORKS ]**
+
+![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=39ff14)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=39ff14)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square&logo=fastapi&logoColor=39ff14)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot&logoColor=39ff14)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=39ff14)
+
+**[ TOOLS & INFRA ]**
+
+![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=39ff14)
+![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=39ff14)
+![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=39ff14)
+![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=39ff14)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=39ff14)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=39ff14)
+
+</div>
+
+---
+
+<div align="center"><sub><code>03 / GITHUB STATS</code></sub></div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abdelrahman22wanas&show_icons=true&theme=dark&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&border_color=21262d&include_all_commits=true&count_private=true&rank_icon=github" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman22wanas&layout=compact&theme=dark&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&border_color=21262d&langs_count=8" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman22wanas&theme=dark&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=c9d1d9&dates=555555&border=21262d" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman22wanas&bg_color=0d1117&color=39ff14&line=39ff14&point=c9d1d9&area=true&area_color=39ff1420&border_color=21262d" width="95%"/>
+
+</div>
+
+---
+
+<div align="center"><sub><code>04 / PROJECTS</code></sub></div>
+
+<br/>
 
 | Project | Stack | Description | Links |
 |---------|-------|-------------|-------|
@@ -95,76 +136,49 @@ I sit at the intersection of offense and defense — understanding how systems b
 
 ---
 
-## ⚡ SKILL SCAN
+<div align="center"><sub><code>05 / EXPERIENCE</code></sub></div>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,react,fastapi,linux,kali,mysql,git,github,vscode&theme=dark" alt="Technology skill icons" />
-</p>
+<br/>
 
-```text
-[SECURITY]      Penetration Testing · Ethical Hacking · Vulnerability Assessment · SIEM (Splunk) · Cryptography
-[LANGUAGES]     Java · Python · C++ · JavaScript · HTML · CSS · R · Verilog HDL
-[WEB & FRAMEWORKS] React · FastAPI · JavaFX · JDBC
-[TOOLS & INFRA] Linux · Kali · Git · GitHub · RDBMS · VS Code
+```
+[ Jul 2026 ]  Splunk Enterprise Security Intern  ·  Connect Professional Services
+              SIEM configuration · SPL log analysis · event correlation rules
+              security dashboards · anomaly detection · incident response
+
+[ Aug 2025 ]  Technical Member — Cyber Security Track  ·  IEEE AIU Student Branch
+              Network security · ethical hacking · vulnerability assessment
+              workshops · threat research · CTF challenges
+
+[ Aug 2023 ]  B.Sc. Computer Engineering — Cyber Security Major
+              Alamein International University · Alamein, Egypt
 ```
 
 ---
 
-## 📊 SPIDER-SENSE — LIVE METRICS
+<div align="center"><sub><code>06 / CERTIFICATIONS</code></sub></div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdelrahman22wanas&show_icons=true&theme=dark&bg_color=0d1117&title_color=39ff14&icon_color=39ff14&text_color=c9d1d9&border_color=21262d&include_all_commits=true&count_private=true&rank_icon=github" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman22wanas&layout=compact&theme=dark&bg_color=0d1117&title_color=39ff14&text_color=c9d1d9&border_color=21262d&langs_count=8" height="165" alt="Top languages"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdelrahman22wanas&theme=dark&background=0d1117&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=c9d1d9&dates=555555&border=21262d" height="165" alt="Contribution streak"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdelrahman22wanas&bg_color=0d1117&color=39ff14&line=39ff14&point=c9d1d9&area=true&area_color=39ff1420&border_color=21262d" width="95%" alt="Activity graph"/>
-</p>
+`Splunk Enterprise Security` · `Introduction to Cyber Attacks` · `Core Java Programming`
+`Hands-on Linux & Shell Scripting` · `Introduction to RDBMS` · `Java OOP & Inheritance`
+`Data Structures` · `Machine Learning for All` · `OOP Using C++` · `Python for Everybody`
+`Digital System Design with Verilog HDL` · `VLSI Chip Design Fundamentals`
+`Introduction to Probability & Data with R` · `Web Development` · `JDBC` · `JavaFX Essentials`
 
----
-
-## 🏆 EVENT LOG — CERTIFICATIONS
-
-| CATEGORY | CERTIFICATIONS |
-| :--- | :--- |
-| Security | Splunk Enterprise Security · Introduction to Cyber Attacks |
-| Java | Core Java Programming · Java OOP & Inheritance · JDBC · JavaFX Essentials |
-| Programming | Python for Everybody · OOP Using C++ · Data Structures · Hands-on Linux & Shell Scripting |
-| Data & ML | Machine Learning for All · Introduction to Probability & Data with R · Introduction to RDBMS |
-| Hardware | Digital System Design with Verilog HDL · VLSI Chip Design Fundamentals |
-| Web | Web Development |
+</div>
 
 ---
 
-## 🎯 CURRENT MISSION
+<div align="center">
 
-```text
-[ ] Advanced penetration testing & red-team tradecraft
-[ ] Deeper SIEM, detection engineering & incident response
-[ ] Security-first full-stack systems in production
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer"/>
 
----
+<sub><code>// abdelrahman22wanas · Cairo, Egypt · +20 102 319 9004 · building secure systems from the ground up</code></sub>
 
-## 📶 COMMS CHANNEL
+<br/>
 
-<p align="center">
-  <a href="mailto:abdelrahman22wanas@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-39FF14?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/abdelrahman-wanas-87681b337"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00B4D8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
-  <a href="https://github.com/abdelrahman22wanas"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-39FF14?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub" /></a>
-</p>
+**© 2026 Abdelrahman Wanas**
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" alt="Footer wave"/>
-</p>
-
-```text
-TRACKER SESSION ENDING
-THANKS FOR STOPPING BY
-```
-
-<sub><code>// abdelrahman22wanas · Cairo, Egypt · building secure systems from the ground up</code></sub>
+</div>
